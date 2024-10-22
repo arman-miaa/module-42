@@ -1,40 +1,40 @@
 [
   {
     "id": 1,
-    "cover": "https://example.com/cover1.jpg",
+    "cover": "https://i.ibb.co.com/SRLjLSw/1.jpg",
     "title": "The journey of React",
     "author": "John Doe",
-    "author_image": "https://example.com/author1.jpg",
+    "author_image": "https://i.ibb.co.com/PmmxTPP/boy1.png",
     "posted_date": "2024-10-22",
     "reading_time": 8,
     "hashtags": ["#react", "#javascript", "#frontend"]
   },
   {
     "id": 2,
-    "cover": "https://example.com/cover2.jpg",
+    "cover": "https://i.ibb.co.com/7thXTzn/2.png",
     "title": "Mastering CSS with Tailwind",
     "author": "Jane Smith",
-    "author_image": "https://example.com/author2.jpg",
+    "author_image": "https://i.ibb.co.com/WWybnBC/boy2.jpg",
     "posted_date": "2024-09-15",
     "reading_time": 10,
     "hashtags": ["#css", "#tailwindcss", "#design"]
   },
   {
     "id": 3,
-    "cover": "https://example.com/cover3.jpg",
+    "cover": "https://i.ibb.co.com/MNJqHYk/3.png",
     "title": "Understanding the Virtual DOM",
     "author": "Alex Johnson",
-    "author_image": "https://example.com/author3.jpg",
+    "author_image": "https://i.ibb.co.com/pwpj1Kp/girl1.jpg",
     "posted_date": "2024-08-30",
     "reading_time": 6,
     "hashtags": ["#react", "#dom", "#performance"]
   },
   {
     "id": 4,
-    "cover": "https://example.com/cover4.jpg",
+    "cover": "https://i.ibb.co.com/2yZ2R8v/4.jpg",
     "title": "Node.js for Beginners",
     "author": "Emily Davis",
-    "author_image": "https://example.com/author4.jpg",
+    "author_image": "https://i.ibb.co.com/nfqybrK/girl2.jpg",
     "posted_date": "2024-07-22",
     "reading_time": 12,
     "hashtags": ["#nodejs", "#backend", "#javascript"]
