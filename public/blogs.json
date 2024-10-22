@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://example.com/cover1.jpg",
+    "title": "The journey of React",
+    "author": "John Doe",
+    "author_image": "https://example.com/author1.jpg",
+    "posted_date": "2024-10-22",
+    "reading_time": 8,
+    "hashtags": ["#react", "#javascript", "#frontend"]
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/cover2.jpg",
+    "title": "Mastering CSS with Tailwind",
+    "author": "Jane Smith",
+    "author_image": "https://example.com/author2.jpg",
+    "posted_date": "2024-09-15",
+    "reading_time": 10,
+    "hashtags": ["#css", "#tailwindcss", "#design"]
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/cover3.jpg",
+    "title": "Understanding the Virtual DOM",
+    "author": "Alex Johnson",
+    "author_image": "https://example.com/author3.jpg",
+    "posted_date": "2024-08-30",
+    "reading_time": 6,
+    "hashtags": ["#react", "#dom", "#performance"]
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/cover4.jpg",
+    "title": "Node.js for Beginners",
+    "author": "Emily Davis",
+    "author_image": "https://example.com/author4.jpg",
+    "posted_date": "2024-07-22",
+    "reading_time": 12,
+    "hashtags": ["#nodejs", "#backend", "#javascript"]
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/cover5.jpg",
+    "title": "Deploying React Apps with Vite",
+    "author": "Michael Brown",
+    "author_image": "https://example.com/author5.jpg",
+    "posted_date": "2024-06-10",
+    "reading_time": 5,
+    "hashtags": ["#react", "#vite", "#deployment"]
+  }
+]
